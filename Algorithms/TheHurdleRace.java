@@ -2,6 +2,7 @@ package sample;
 
 import java.util.Scanner;
 
+//the hurdle race
 public class TheHurdleRace {
 
 	public static void main(String[] args) {

@@ -2,6 +2,7 @@ package sample;
 
 import java.util.Scanner;
 
+//camel case
 public class CamelCase {
 
 	public static void main(String[] args) {
