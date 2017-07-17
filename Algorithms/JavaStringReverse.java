@@ -3,6 +3,7 @@ package sample;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//Stringreverse class
 public class JavaStringReverse {
 
 	public static void main(String[] args) {
