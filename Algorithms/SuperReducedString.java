@@ -21,7 +21,7 @@ public class SuperReducedString {
 		}
 		if(string.equals(""))
 		{
-			System.out.println("Empty String");
+			System.out.println("Empty String(anil)");
 		}
 		else
 		{
